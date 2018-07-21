@@ -1,0 +1,45 @@
+{
+"details":{
+"image":"login.png",
+"name":"vani",
+"phoneno":"9505700058",
+"email":"satyavanibobbadi@gmail.com",
+"address":"undi"
+},
+"career":{
+  "info":"career objective is get a job in reputed institution"
+},
+"education":[
+{
+  "degree":"btech",
+  "institute":"srkr engineering college",
+  "branch":"IT"
+},
+{
+  "degree":"Inter",
+  "institute":"Aditya junoir college",
+  "branch":"MPC"
+},
+{
+  "degree":"10th",
+  "institute":"Aditya public school",
+  "branch":"sec-A"
+}],
+"keyskills":[{
+  "title":"programming languages:",
+  "info":["c,c++,java,python,ruby"]
+},
+{
+  "title":"operting systems:",
+  "info":["windows,linux,mac,ubuntu,dos"]
+},
+{
+  "title":"databases:",
+  "info":["oracle,sql,mysql,plsql"]
+}
+],
+"achievements":{
+  "info":"gfghdfjsdxghwiudgyegdweybdey"
+}
+
+}
